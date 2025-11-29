@@ -2,10 +2,6 @@
 
 A lightweight expense tracking mobile application built with Flutter, featuring currency conversion, pagination, and custom UI following the BLoC pattern.
 
-## 📱 Screenshots
-
-[Dashboard Screen] | [Add Expense Screen]
-
 ## 🎯 Features
 
 ### Core Features
